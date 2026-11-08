@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.TCLRemoteControl.Dialog" parent="android:style/Theme.Material.Dialog.Alert">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#8BE0C1</item>
+        <item name="android:colorBackground">#222A2F</item>
+        <item name="android:textColorPrimary">#F0F5FA</item>
+        <item name="android:textColorSecondary">#ADC0D1</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+</resources>
