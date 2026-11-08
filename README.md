@@ -24,7 +24,6 @@
 - Android 9（API 28）及以上；compileSdk / targetSdk 37。
 - Gradle 9.6.0、Android Gradle Plugin 9.4.1、JDK 25；原生 Java UI。
 - 已测试手机：小米 17 Pro Max；电视：TCL 55Q9K。
-- 参考工程：`C:\Users\28671\Documents\Codex\2026-11-08\new-chat\outputs\tcl-bluetooth-remote` 及其 `HANDOFF.md`。
 - 与参考工程包名 `cn.local.tvremote` 不同，可以并存；使用时关闭其他 HID 模拟应用。
 
 ## 连接状态灯
